@@ -306,12 +306,15 @@ body {
   margin-bottom: 8px;
 }
 .figure-caption {
-  padding: 32px 16px;
+  padding: 32px 0px;
   background: #ffffff;
 }
 .socials {
   display: flex;
   gap: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  justify-content: center;
 }
 .socials-li {
   
@@ -445,6 +448,8 @@ body {
   background: #4d5ae5;
   border-radius: 50%;
   padding: 8px;
+  align-items: center;
+  justify-content: center;
 }
 .footer-socials-button:hover,
 .footer-socials-button:focus{
