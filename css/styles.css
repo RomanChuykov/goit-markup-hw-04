@@ -361,7 +361,9 @@ body {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   padding: 16px 32px;
-  color: #8e8f99; ;
+  color: #8e8f99; 
+  align-items: center;
+  justify-content: center;
 }
 .client-pic {
   
