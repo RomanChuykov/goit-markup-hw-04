@@ -373,10 +373,11 @@ body {
 .client-link:hover
 {
   border-color: #404bbf; 
-  
+  color: #404bbf;
 }
 .client-link:focus{
   color: #404bbf;
+  border-color: #404bbf; 
 }
 
 /* ***************************     FOOTER      *********** */
