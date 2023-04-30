@@ -370,12 +370,14 @@ body {
   fill: currentColor; 
 }
 
-.client-link:hover,
-.client-link:focus{
+.client-link:hover
+{
   border-color: #404bbf; 
+  
+}
+.client-link:focus{
   color: #404bbf;
 }
-
 
 /* ***************************     FOOTER      *********** */
 
